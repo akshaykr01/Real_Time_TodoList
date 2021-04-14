@@ -1,9 +1,6 @@
 /**
  * Real-time Todolist application
  * The server file
- * 
- * @author: Christophe Malo
- * @version: 0.1.0
  */
 var express     = require('express'); // Loads Express.js framework
 var http        = require('http'); // Loads http module
